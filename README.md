@@ -1,2 +1,2 @@
 # Text-Mining
-This is for the Data Mining course in Y3 in UIC
+This is the project for the Data Mining course in Y3 in UIC
